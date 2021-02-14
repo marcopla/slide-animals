@@ -5,3 +5,4 @@ slide.init();
 slide.addArrow('.prev', '.next');
 console.log(slide);
 
+slide.addControl();
